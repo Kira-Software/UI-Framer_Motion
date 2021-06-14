@@ -5,11 +5,6 @@ import Image from "../images/b.png";
 import { motion } from "framer-motion";
 
 import { animationOne, transition } from "../animations";
-import Cards from "../components/cards";
-import Cardmaterial from "../components/Cardmaterial";
-import Cardmaterial2 from "../components/Cardmaterial2";
-import Sidedrawar from "../components/Sidedrawar";
-
 
 const Home = () => {
   return (
@@ -26,7 +21,6 @@ const Home = () => {
         title="Experience Nature"
         description="Once in a lifetime"
       />
-    
 
       {/* <Cards title="Starter" price="$8.99" description="100 Transactions" />
       <Cards title="Gold" price="$29.99" description="100 Transactions" />

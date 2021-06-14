@@ -1,4 +1,4 @@
-import Image from "../images/b5.png"
+//import Image from "../images/b5.png"
 
 export const animationOne = {
   in: {
